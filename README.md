@@ -61,6 +61,7 @@ I hope this helps! Let me know if you have any questions or need further assista
 ---
 
 >>> give me a crud application
+
 I'm happy to help you with your CRUD (Create, Read, Update, Delete) application! However, I would like to point out that creating a full-fledged CRUD
 application can be a complex task and may require a lot of code. It's important to have a clear understanding of the problem you are trying to solve
 before starting to write any code.
